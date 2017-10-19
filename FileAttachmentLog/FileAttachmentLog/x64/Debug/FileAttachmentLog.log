@@ -1,0 +1,14 @@
+﻿Build started 19-10-2017 10:37:13.
+     1>Project "D:\Develop\MayaCPP\FileAttachmentLog\FileAttachmentLog\FileAttachmentLog.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Develop\DevKit\Maya-devkit-master\Maya-devkit-master\win\include" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WIN64 /D _WINDOWS /D _USRDLL /D NT_PLUGIN /D REQUIRE_IOSTREAM /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt FileAttachmentLog.cpp
+         FileAttachmentLog.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Develop\MayaCPP\FileAttachmentLog\x64\Debug\FileAttachmentLog.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Autodesk\Maya2016\lib" Foundation.lib OpenMaya.lib OpenMayaUI.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Develop\MayaCPP\FileAttachmentLog\x64\Debug\FileAttachmentLog.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Develop\MayaCPP\FileAttachmentLog\x64\Debug\FileAttachmentLog.lib" /MACHINE:X64 x64\Debug\FileAttachmentLog.obj
+         x64\Debug\stdafx.obj
+         FileAttachmentLog.vcxproj -> D:\Develop\MayaCPP\FileAttachmentLog\x64\Debug\FileAttachmentLog.exe
+     1>Done Building Project "D:\Develop\MayaCPP\FileAttachmentLog\FileAttachmentLog\FileAttachmentLog.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
